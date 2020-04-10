@@ -78,6 +78,7 @@ public class KingfisherManager {
     /// Use this instance for getting or storing images with Kingfisher.
     public static let shared = KingfisherManager()
 
+
     // Mark: Public Properties
     /// The `ImageCache` used by this manager. It is `ImageCache.default` by default.
     /// If a cache is specified in `KingfisherManager.defaultOptions`, the value in `defaultOptions` will be
